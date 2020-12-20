@@ -4,7 +4,9 @@ description: 这里是所有笔记的目录
 
 # 笔记目录
 
-{% page-ref page="./" %}
+[计算机基础](https://bxg.gitbook.io/computer-basics/)
 
-{% page-ref page="./" %}
+[网站](https://bxg.gitbook.io/website/)
+
+[插件](https://bxg.gitbook.io/git/)
 
