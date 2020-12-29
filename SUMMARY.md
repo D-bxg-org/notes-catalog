@@ -6,5 +6,6 @@
 
 ## 模板 <a id="template"></a>
 
-* [前言](template/qian-yan.md)
+* [书的前言](template/shu-de-qian-yan.md)
+* [组的前言](template/qian-yan.md)
 
