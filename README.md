@@ -1,5 +1,5 @@
 ---
-description: "\U0001D47B\U0001D468\U0001D473\U0001D472 \U0001D470\U0001D47A \U0001D46A\U0001D46F\U0001D46C\U0001D468\U0001D477, \U0001D47A\U0001D46F\U0001D476\U0001D47E \U0001D474\U0001D46C \U0001D47B\U0001D46F\U0001D46C \U0001D46A\U0001D476\U0001D46B\U0001D46C."
+description: 𝑻𝑨𝑳𝑲 𝑰𝑺 𝑪𝑯𝑬𝑨𝑷, 𝑺𝑯𝑶𝑾 𝑴𝑬 𝑻𝑯𝑬 𝑪𝑶𝑫𝑬.
 ---
 
 # 笔记目录
@@ -18,3 +18,6 @@ description: "\U0001D47B\U0001D468\U0001D473\U0001D472 \U0001D470\U0001D47A \U00
 
 [软件学习](https://bxg.gitbook.io/software-learining)
 
+{% embed url="https://bxg.gitbook.io/fabric" %}
+fabric
+{% endembed %}
